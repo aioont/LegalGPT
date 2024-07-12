@@ -1,0 +1,11 @@
+langchain_community==0.2.6
+langchain_ibm==0.1.7
+langchain_text_splitters==0.2.2
+pymilvus==2.4.4
+ibm_watsonx_ai==1.0.9
+ibm_watson_machine_learning==1.0.359
+pypdf==4.2.0
+flask==3.0.3
+flask-cors==4.0.1
+PyPDF2==3.0.1
+markdown2==2.4.13
